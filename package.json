@@ -1,0 +1,21 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "1",
+  "main": "2",
+  "scripts": {
+    "test": "3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "4"
+  },
+  "keywords": [
+    "4"
+  ],
+  "author": "4",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
