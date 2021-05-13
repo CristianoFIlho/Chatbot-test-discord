@@ -8,7 +8,7 @@ Windows:
 You can clone the repository through CMD (Command Prompt) just by typing:
 
 ```sh
-git clone https://github.com/CristianoFIlho/clone-linktree.git
+git clone https://github.com/CristianoFIlho/Chatbot-test-discord.git
 ```
 
 or download the zip from the green button at the beginning of the repository
